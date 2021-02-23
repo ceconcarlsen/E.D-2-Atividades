@@ -1,2 +1,2 @@
 # E.D-2 Atividades
- Atividades referente a disciplina de Estrutura de Dados 2
+## Atividades referentes a disciplina de Estruturas de Dados 2
